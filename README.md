@@ -35,7 +35,7 @@ TailwindCSS (styling & layout)
 ⚡ Getting Started
 
 1. Clone the repository
-   git clone https://github.com/your-username/ev-analytics-dashboard.git
+   git clone https://github.com/Shivani-Chovatiya/Analytics-Dashboard
    cd ev-analytics-dashboard
 
 2. Install dependencies
